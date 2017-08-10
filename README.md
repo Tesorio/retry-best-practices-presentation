@@ -18,4 +18,6 @@ $ python -m SimpleHTTPServer
 
 - for speaker notes: press `s` on page while presentation is open
 
-- for a PDF: reload page with `?print-pdf` appended, and then **Chrome** -> Print -> Save as PDF
+- for a PDF: load page (in **Chrome**) with `?print-pdf` appended
+
+  Print -> ☑︎ Background Graphics -> Save as PDF
